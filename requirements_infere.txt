@@ -1,0 +1,5 @@
+scipy
+tb-nightly
+opencv-python
+tqdm
+pyaml
